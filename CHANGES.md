@@ -2,6 +2,9 @@
 
 This document describes the relevant changes between releases of the API model.
 
+## 0.0.413 Mar 4 2025
+- Added `Type` field to `GCPVolume` type
+
 ## 0.0.412 Feb 26 2025
 - Added `ClusterCondition` field to `VersionGate` type
 

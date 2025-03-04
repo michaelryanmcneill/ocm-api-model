@@ -18,4 +18,6 @@ limitations under the License.
 struct GCPVolume {
 	// Volume size in Gib.
 	Size Integer
+	// Volume type for compute nodes.
+	Type String
 }
